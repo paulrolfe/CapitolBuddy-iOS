@@ -1,0 +1,970 @@
+{
+    "assets": [
+        {
+            "asset": "MOLegislature 2.0/capbud_40.png", 
+            "target": "capbud_40.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CapBud_ipadLandscape.png", 
+            "target": "CapBud_ipadLandscape.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/tags.png", 
+            "target": "tags.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/en.lproj/InfoPlist.strings", 
+            "target": "en.lproj/InfoPlist.strings"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/check_box.png", 
+            "target": "check_box.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CapBud_ipadLandscapeRetina.png", 
+            "target": "CapBud_ipadLandscapeRetina.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CapBud_ipadPortait.png", 
+            "target": "CapBud_ipadPortait.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CapBud_ipadPortaitRetina.png", 
+            "target": "CapBud_ipadPortaitRetina.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/check.png", 
+            "target": "check.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/145-teams.png", 
+            "target": "145-teams.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_58.png", 
+            "target": "capbud_58.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/user-01.png", 
+            "target": "user-01.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_29.png", 
+            "target": "capbud_29.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/menu-icon.png", 
+            "target": "menu-icon.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/17-bar-chart.png", 
+            "target": "17-bar-chart.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_original.png", 
+            "target": "capbud_original.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/53-house.png", 
+            "target": "53-house.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/112-group.png", 
+            "target": "112-group.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/thumbsdown.png", 
+            "target": "thumbsdown.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/MFSideMenu/redDot.png", 
+            "target": "redDot.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/chat-long.png", 
+            "target": "chat-long.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/40-inbox.png", 
+            "target": "40-inbox.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/thumbsup.png", 
+            "target": "thumbsup.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/myInfo_small.png", 
+            "target": "myInfo_small.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/190-bank.png", 
+            "target": "190-bank.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/arrow-up-01.png", 
+            "target": "arrow-up-01.png"
+        }, 
+        {
+            "asset": "Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/18-envelope.png", 
+            "target": "18-envelope.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/settings.png", 
+            "target": "settings.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/BlackStar.PNG", 
+            "target": "BlackStar.PNG"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/shared.png", 
+            "target": "shared.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/line.png", 
+            "target": "line.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/flag.png", 
+            "target": "flag.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/compass.png", 
+            "target": "compass.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CapBud_iPhone_tall.png", 
+            "target": "CapBud_iPhone_tall.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/VisitedURLs.strings", 
+            "target": "VisitedURLs.strings"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/55-network.png", 
+            "target": "55-network.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_120.png", 
+            "target": "capbud_120.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/search-01.png", 
+            "target": "search-01.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/peopleicon.png", 
+            "target": "peopleicon.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CB_background.png", 
+            "target": "CB_background.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/eye-01.png", 
+            "target": "eye-01.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CapBud_iPhone_small.png", 
+            "target": "CapBud_iPhone_small.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/myInfo.png", 
+            "target": "myInfo.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/104-notes.png", 
+            "target": "104-notes.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/News-icon.png", 
+            "target": "News-icon.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/new-word.png", 
+            "target": "new-word.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/CB_text.png", 
+            "target": "CB_text.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/Pencil-black.png", 
+            "target": "Pencil-black.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_76.png", 
+            "target": "capbud_76.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/swingsmall.png", 
+            "target": "swingsmall.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/59-flag.png", 
+            "target": "59-flag.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_80.png", 
+            "target": "capbud_80.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/28-star.png", 
+            "target": "28-star.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/mail-01.png", 
+            "target": "mail-01.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/capbud_152.png", 
+            "target": "capbud_152.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/arrow-down-01.png", 
+            "target": "arrow-down-01.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/menu-icon@2x.png", 
+            "target": "menu-icon@2x.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/icon-share.png", 
+            "target": "icon-share.png"
+        }, 
+        {
+            "asset": "MOLegislature 2.0/government.png", 
+            "target": "government.png"
+        }, 
+        {
+            "asset": "CapitolBuddy/Images.xcassets", 
+            "target": null
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "CapitolBuddy", 
+        "APPLICATION_IDENTIFIER": "RedOstrich.CapitolBuddy.Universal", 
+        "APPLICATION_NAME": "CapitolBuddy", 
+        "LONG_VERSION": "1.7.1", 
+        "SHORT_VERSION": "1.7.1", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "CapitolBuddy"
+        }
+    }, 
+    "defines": {
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 70000
+    }, 
+    "deps": [
+        "UIKit", 
+        "AddressBookUI", 
+        "AddressBook", 
+        "MapKit", 
+        "QuartzCore", 
+        "MobileCoreServices", 
+        "Security", 
+        "CoreLocation", 
+        "CFNetwork", 
+        "AudioToolbox", 
+        "SystemConfiguration", 
+        "StoreKit", 
+        "MessageUI", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics", 
+        "Parse"
+    ], 
+    "flags": [
+        "-DNS_BLOCK_ASSERTIONS=1", 
+        {
+            "flag": "-DNS_BLOCK_ASSERTIONS=1", 
+            "type": "c++"
+        }, 
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "CapitolBuddy-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "CapitolBuddy-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "CapitolBuddy-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "CapitolBuddy-project-headers.hmap", 
+            "hmap": {
+                "APPDetailViewController.h": {
+                    "key": "APPDetailViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "APPDetailViewController.h"
+                }, 
+                "APPMasterViewController.h": {
+                    "key": "APPMasterViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "APPMasterViewController.h"
+                }, 
+                "AddFeedViewController.h": {
+                    "key": "AddFeedViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "AddFeedViewController.h"
+                }, 
+                "AddUsersViewController.h": {
+                    "key": "AddUsersViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "AddUsersViewController.h"
+                }, 
+                "AddressViewController.h": {
+                    "key": "AddressViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "AddressViewController.h"
+                }, 
+                "AllNotesViewController.h": {
+                    "key": "AllNotesViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "AllNotesViewController.h"
+                }, 
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "BadVotesViewController.h": {
+                    "key": "BadVotesViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "BadVotesViewController.h"
+                }, 
+                "BigNoteCell.h": {
+                    "key": "BigNoteCell.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "BigNoteCell.h"
+                }, 
+                "CapitolBuddy-Prefix.pch": {
+                    "key": "CapitolBuddy-Prefix.pch", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "CapitolBuddy-Prefix.pch"
+                }, 
+                "ChangeStateViewController.h": {
+                    "key": "ChangeStateViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "ChangeStateViewController.h"
+                }, 
+                "CommDetailsViewController.h": {
+                    "key": "CommDetailsViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "CommDetailsViewController.h"
+                }, 
+                "CommTableViewController.h": {
+                    "key": "CommTableViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "CommTableViewController.h"
+                }, 
+                "CommsClass.h": {
+                    "key": "CommsClass.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "CommsClass.h"
+                }, 
+                "DataLoader.h": {
+                    "key": "DataLoader.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "DataLoader.h"
+                }, 
+                "DetailViewManager.h": {
+                    "key": "DetailViewManager.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "DetailViewManager.h"
+                }, 
+                "EditProfileViewController.h": {
+                    "key": "EditProfileViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "EditProfileViewController.h"
+                }, 
+                "EditRSSViewController.h": {
+                    "key": "EditRSSViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "EditRSSViewController.h"
+                }, 
+                "GoodVotesViewController.h": {
+                    "key": "GoodVotesViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "GoodVotesViewController.h"
+                }, 
+                "HouseTableViewController.h": {
+                    "key": "HouseTableViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "HouseTableViewController.h"
+                }, 
+                "IAPHelper.h": {
+                    "key": "IAPHelper.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "IAPHelper.h"
+                }, 
+                "InfoViewController.h": {
+                    "key": "InfoViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "InfoViewController.h"
+                }, 
+                "Legs.h": {
+                    "key": "Legs.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "Legs.h"
+                }, 
+                "LocationAlertMgr.h": {
+                    "key": "LocationAlertMgr.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "LocationAlertMgr.h"
+                }, 
+                "MFSideMenu.h": {
+                    "key": "MFSideMenu.h", 
+                    "prefix": "MOLegislature 2.0/MFSideMenu/", 
+                    "suffix": "MFSideMenu.h"
+                }, 
+                "MFSideMenuContainerViewController.h": {
+                    "key": "MFSideMenuContainerViewController.h", 
+                    "prefix": "MOLegislature 2.0/MFSideMenu/", 
+                    "suffix": "MFSideMenuContainerViewController.h"
+                }, 
+                "MFSideMenuShadow.h": {
+                    "key": "MFSideMenuShadow.h", 
+                    "prefix": "MOLegislature 2.0/MFSideMenu/", 
+                    "suffix": "MFSideMenuShadow.h"
+                }, 
+                "MemberTableViewController.h": {
+                    "key": "MemberTableViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "MemberTableViewController.h"
+                }, 
+                "MyLegsViewController.h": {
+                    "key": "MyLegsViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "MyLegsViewController.h"
+                }, 
+                "NewBillViewController.h": {
+                    "key": "NewBillViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "NewBillViewController.h"
+                }, 
+                "NewMapViewController.h": {
+                    "key": "NewMapViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "NewMapViewController.h"
+                }, 
+                "NotesObject.h": {
+                    "key": "NotesObject.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "NotesObject.h"
+                }, 
+                "NotesTableViewController.h": {
+                    "key": "NotesTableViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "NotesTableViewController.h"
+                }, 
+                "NotesViewController.h": {
+                    "key": "NotesViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "NotesViewController.h"
+                }, 
+                "OptionsViewController.h": {
+                    "key": "OptionsViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "OptionsViewController.h"
+                }, 
+                "SenateTableViewController.h": {
+                    "key": "SenateTableViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "SenateTableViewController.h"
+                }, 
+                "ShareActions.h": {
+                    "key": "ShareActions.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "ShareActions.h"
+                }, 
+                "SharingViewController.h": {
+                    "key": "SharingViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "SharingViewController.h"
+                }, 
+                "SideMenuViewController.h": {
+                    "key": "SideMenuViewController.h", 
+                    "prefix": "MOLegislature 2.0/MFSideMenu/", 
+                    "suffix": "SideMenuViewController.h"
+                }, 
+                "StateIAPHelper.h": {
+                    "key": "StateIAPHelper.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "StateIAPHelper.h"
+                }, 
+                "StatesClass.h": {
+                    "key": "StatesClass.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "StatesClass.h"
+                }, 
+                "SubmitCorrectionViewController.h": {
+                    "key": "SubmitCorrectionViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "SubmitCorrectionViewController.h"
+                }, 
+                "SwingVotesViewController.h": {
+                    "key": "SwingVotesViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "SwingVotesViewController.h"
+                }, 
+                "TagPickerViewController.h": {
+                    "key": "TagPickerViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "TagPickerViewController.h"
+                }, 
+                "TallyViewController.h": {
+                    "key": "TallyViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "TallyViewController.h"
+                }, 
+                "TeamManagerViewController.h": {
+                    "key": "TeamManagerViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "TeamManagerViewController.h"
+                }, 
+                "UIViewController+MFSideMenuAdditions.h": {
+                    "key": "UIViewController+MFSideMenuAdditions.h", 
+                    "prefix": "MOLegislature 2.0/MFSideMenu/", 
+                    "suffix": "UIViewController+MFSideMenuAdditions.h"
+                }, 
+                "VoteTrackers.h": {
+                    "key": "VoteTrackers.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "VoteTrackers.h"
+                }, 
+                "VotesTableViewController.h": {
+                    "key": "VotesTableViewController.h", 
+                    "prefix": "MOLegislature 2.0/", 
+                    "suffix": "VotesTableViewController.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "/var/folders/r2/3vnz5py92w729c_7cn_m92dw0000gn/T/tmpgn7As_/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/r2/3vnz5py92w729c_7cn_m92dw0000gn/T/tmpgn7As_/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/r2/3vnz5py92w729c_7cn_m92dw0000gn/T/tmpgn7As_/DERIVED_FILE_DIR", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./MOLegislature 2.0/CapitolBuddy-Info.plist"
+    ], 
+    "libs": [
+        "z.1.1.3", 
+        "sqlite3.0"
+    ], 
+    "modules": [], 
+    "pchs": [
+        "./MOLegislature 2.0/CapitolBuddy-Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/APPDetailViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/APPMasterViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/AddFeedViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/AddUsersViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/AddressViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/AllNotesViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/BadVotesViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/BigNoteCell.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/ChangeStateViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/CommDetailsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/CommTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/CommsClass.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/DataLoader.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/DetailViewManager.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/EditProfileViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/EditRSSViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/GoodVotesViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/HouseTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/IAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/InfoViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/Legs.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/LocationAlertMgr.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/MFSideMenu/MFSideMenuContainerViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/MFSideMenu/MFSideMenuShadow.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/MFSideMenu/SideMenuViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/MFSideMenu/UIViewController+MFSideMenuAdditions.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/MemberTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/MyLegsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/NewBillViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/NewMapViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/NotesObject.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/NotesTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/NotesViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/OptionsViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/SenateTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/ShareActions.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/SharingViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/StateIAPHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/StatesClass.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/SubmitCorrectionViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/SwingVotesViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/TagPickerViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/TallyViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/TeamManagerViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/VoteTrackers.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/VotesTableViewController.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "MOLegislature 2.0/main.m"
+        }
+    ], 
+    "storyboards": [
+        {
+            "storyboard": "MOLegislature 2.0/en.lproj/MainStoryboard.storyboard", 
+            "target": null
+        }, 
+        {
+            "storyboard": "MOLegislature 2.0/PadStoryboard.storyboard", 
+            "target": null
+        }
+    ], 
+    "type": "app", 
+    "version": "3", 
+    "xcdatamodels": [], 
+    "xcode_project": "CapitolBuddy.xcodeproj", 
+    "xibs": [
+        {
+            "target": null, 
+            "xib": "MOLegislature 2.0/BigNoteCell_nib.xib"
+        }
+    ]
+}
