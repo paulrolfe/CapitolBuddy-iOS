@@ -82,7 +82,6 @@
 		398705E117F448680097D2E5 /* compass.png in Resources */ = {isa = PBXBuildFile; fileRef = 398705DF17F448680097D2E5 /* compass.png */; };
 		398705E617F44B6B0097D2E5 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 398705E517F44B6B0097D2E5 /* settings.png */; };
 		398705E817F44CFE0097D2E5 /* peopleicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 398705E717F44CFE0097D2E5 /* peopleicon.png */; };
-		398705EA17F44D530097D2E5 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 398705E917F44D530097D2E5 /* Default-568h@2x.png */; };
 		398B229C17F1585500F84C5E /* NewBillViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 398B229B17F1585500F84C5E /* NewBillViewController.m */; };
 		398B229E17F189E300F84C5E /* 17-bar-chart.png in Resources */ = {isa = PBXBuildFile; fileRef = 398B229D17F189E300F84C5E /* 17-bar-chart.png */; };
 		398B22AA17F18CCE00F84C5E /* swingsmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 398B22A917F18CCE00F84C5E /* swingsmall.png */; };
@@ -97,6 +96,7 @@
 		39C6D71C18522191009E9A7E /* VisitedURLs.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39C6D71B18522191009E9A7E /* VisitedURLs.strings */; };
 		39D6D2D0185900230071F357 /* News-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 39D6D2CF185900230071F357 /* News-icon.png */; };
 		39D6D2D4185905800071F357 /* new-word.png in Resources */ = {isa = PBXBuildFile; fileRef = 39D6D2D3185905800071F357 /* new-word.png */; };
+		39DC284E1B46EA4400F27F74 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 39DC284D1B46EA4400F27F74 /* Default-568h@2x.png */; };
 		39DC9717188724000039AC0E /* EditProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39DC9716188724000039AC0E /* EditProfileViewController.m */; };
 		39DC971A188C9C960039AC0E /* NotesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39DC9719188C9C960039AC0E /* NotesTableViewController.m */; };
 		39DC971D188CA0110039AC0E /* NotesObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 39DC971C188CA0110039AC0E /* NotesObject.m */; };
@@ -241,7 +241,6 @@
 		398705DF17F448680097D2E5 /* compass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = compass.png; sourceTree = "<group>"; };
 		398705E517F44B6B0097D2E5 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
 		398705E717F44CFE0097D2E5 /* peopleicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = peopleicon.png; sourceTree = "<group>"; };
-		398705E917F44D530097D2E5 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
 		398B229A17F1585500F84C5E /* NewBillViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewBillViewController.h; sourceTree = "<group>"; };
 		398B229B17F1585500F84C5E /* NewBillViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewBillViewController.m; sourceTree = "<group>"; };
 		398B229D17F189E300F84C5E /* 17-bar-chart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "17-bar-chart.png"; sourceTree = "<group>"; };
@@ -261,6 +260,8 @@
 		39D5BD15183567A700DFCF39 /* libsystem_notify.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsystem_notify.dylib; path = usr/lib/system/libsystem_notify.dylib; sourceTree = SDKROOT; };
 		39D6D2CF185900230071F357 /* News-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "News-icon.png"; sourceTree = "<group>"; };
 		39D6D2D3185905800071F357 /* new-word.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "new-word.png"; sourceTree = "<group>"; };
+		39DC284D1B46EA4400F27F74 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		39DC284F1B46EA8D00F27F74 /* ParseKeys.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParseKeys.h; sourceTree = "<group>"; };
 		39DC9715188724000039AC0E /* EditProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditProfileViewController.h; sourceTree = "<group>"; };
 		39DC9716188724000039AC0E /* EditProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditProfileViewController.m; sourceTree = "<group>"; };
 		39DC9718188C9C960039AC0E /* NotesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotesTableViewController.h; sourceTree = "<group>"; };
@@ -611,6 +612,7 @@
 			isa = PBXGroup;
 			children = (
 				395F477A18262E3300161E8F /* iPad */,
+				39DC284F1B46EA8D00F27F74 /* ParseKeys.h */,
 				9E96DFBC16DD111A003981C3 /* AppDelegate.h */,
 				9E96DFBD16DD111A003981C3 /* AppDelegate.m */,
 				9E96DFC516DD111A003981C3 /* MainStoryboard.storyboard */,
@@ -649,7 +651,7 @@
 				39513C6F17EC06D3000541A1 /* capbud_80.png */,
 				39513C7017EC06D3000541A1 /* capbud_120.png */,
 				9E96DFBB16DD111A003981C3 /* CapitolBuddy-Prefix.pch */,
-				398705E917F44D530097D2E5 /* Default-568h@2x.png */,
+				39DC284D1B46EA4400F27F74 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -739,7 +741,6 @@
 				39994A1918EF1B35002F2534 /* myInfo_small.png in Resources */,
 				9E4A18C016F6FEE40032CF63 /* 190-bank.png in Resources */,
 				39411B4918FB28E500AA03D3 /* arrow-up-01.png in Resources */,
-				398705EA17F44D530097D2E5 /* Default-568h@2x.png in Resources */,
 				9E5154EC16FAE25D00935F39 /* 18-envelope.png in Resources */,
 				398705E617F44B6B0097D2E5 /* settings.png in Resources */,
 				39E90A2617FA2B9C00512469 /* BlackStar.PNG in Resources */,
@@ -756,6 +757,7 @@
 				398705E817F44CFE0097D2E5 /* peopleicon.png in Resources */,
 				39513C6117EB92F3000541A1 /* CB_background.png in Resources */,
 				3943D9501908263A0067A724 /* eye-01.png in Resources */,
+				39DC284E1B46EA4400F27F74 /* Default-568h@2x.png in Resources */,
 				3951318418B4132E007AE1A6 /* CapBud_iPhone_small.png in Resources */,
 				39E90A2217F9CCEC00512469 /* myInfo.png in Resources */,
 				3951318F18B6449B007AE1A6 /* 104-notes.png in Resources */,

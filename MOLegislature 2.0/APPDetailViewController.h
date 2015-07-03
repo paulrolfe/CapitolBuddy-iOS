@@ -11,7 +11,7 @@
 @interface APPDetailViewController : UIViewController
 
 @property (copy, nonatomic) NSString *url;
-@property (copy,nonatomic) NSString *title;
+//@property (copy,nonatomic) NSString *title;
 @property (strong, nonatomic) IBOutlet UIWebView *webView;
 - (IBAction)fwdButton:(id)sender;
 - (IBAction)backButton:(id)sender;
